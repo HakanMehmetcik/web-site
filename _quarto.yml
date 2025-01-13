@@ -1,0 +1,14 @@
+website:
+  title: "Web-Site"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Contact
+        href: contact.qmd
+
+format:
+  html:
+    css: styles.css
