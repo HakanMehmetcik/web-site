@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: "187618d2-3512-477f-8e18-62d60b68b3cf"
+      url: "https://web-sitex.netlify.app"
