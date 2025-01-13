@@ -6,6 +6,14 @@ website:
         href: index.qmd
       - text: About
         href: about.qmd
+      - text: Team
+        href: team.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Activities
+        href: activities.qmd
+      - text: Deliverables
+        href: deliverables.qmd
       - text: Contact
         href: contact.qmd
 
