@@ -1,6 +1,11 @@
+project:
+  type: website
+  output-dir: docs
 website:
-  title: "Web-Site"
+  page-navigation: true
   navbar:
+    background: primary
+    search: true
     left:
       - text: Home
         href: index.qmd
@@ -16,7 +21,12 @@ website:
         href: deliverables.qmd
       - text: Contact
         href: contact.qmd
-
+    tools:
+      - icon: twitter
+        href: https://twitter.com
+      - icon: github
+        menu:
+        href: https://github.com
 format:
   html:
     theme: default
